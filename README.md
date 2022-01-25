@@ -27,7 +27,7 @@ Untuk menjalankan image prosgres, ada 2 cara. Bisa langsung menggunakan perintah
 mkdir -p data/db/postgres
 ```
 
-### Menggunakan perintah `docker`
+### 2. Menjalankan Server Postgres Menggunakan perintah `docker`
 
 ```bash
 docker run -d \

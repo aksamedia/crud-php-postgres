@@ -92,7 +92,7 @@ postgres=#
 ## Import Database Dari File di Luar Container
 
 ```bash
-cat data.psql | docker exec -i server-postgres-96 psql -U postgres -d database_baru
+cat dump.psql | docker exec -i server-postgres-96 psql -U postgres -d database_baru
 ```
 
 ## Tes PHP

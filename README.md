@@ -6,7 +6,7 @@ contoh CRUD PHP sederhana dengan postgres
 Pastikan `git` telah terinstall
 
 ```bash
-git clone git@github.com:aksamedia/crud-php-postgres.git`
+git clone git@github.com:aksamedia/crud-php-postgres.git
 cd crud-php-postgres
 ```
 
